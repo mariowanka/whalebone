@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "whalebone"
+version = "0.1.0"
+description = ""
+authors = ["Mario Wanka <wanka.mario@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pre-commit = "^4.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
