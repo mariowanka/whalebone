@@ -16,6 +16,7 @@ python-dateutil = "^2.9.0.post0"
 orjson = "^3.10.18"
 flask-wtf = "^1.2.2"
 dotenv = "^0.9.9"
+pytest = "^8.4.1"
 
 
 [build-system]
